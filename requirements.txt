@@ -10,4 +10,3 @@ torch
 pypdf
 streamlit
 python-dotenv
-langchain.chains
